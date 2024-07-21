@@ -1,0 +1,14 @@
+.Navbar{
+    width: 1360px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+}
+.navbar__title {
+    font-family: var(--third-family);
+font-weight: 500;
+font-size: 12px;
+text-transform: uppercase;
+color: #999;
+padding: 10px;
+}
