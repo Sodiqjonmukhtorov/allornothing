@@ -1,0 +1,21 @@
+.Acessuars__title {
+    font-family: var(--third-family);
+font-weight: 500;
+font-size: 12px;
+text-transform: uppercase;
+color: #ccc;
+padding: 10px;
+}
+.Acessuars__img {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 20px;
+}
+.Acessuars___icon {
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+.Acessuars {
+    width: 1360px;
+}

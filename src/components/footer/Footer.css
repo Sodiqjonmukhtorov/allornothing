@@ -1,0 +1,28 @@
+.Footer {
+  border-radius: 20px;
+  width: 1360px;
+  height: 226px;
+  background-color: #262626;
+  padding: 40px 40px 241px;
+}
+.footer__title {
+    font-family: var(--third-family);
+font-weight: 700;
+font-size: 12px;
+color: #f1c05b;
+}
+.footer__list {
+    display: flex;
+    gap: 40px;
+    align-items: start;
+    margin-top: 31px;
+}
+.footer__item {
+    font-family: var(--second-family);
+font-weight: 400;
+font-size: 16px;
+color: rgba(255, 255, 255, 0.8);
+}
+.footer__img {
+    margin-left: 100px;
+}

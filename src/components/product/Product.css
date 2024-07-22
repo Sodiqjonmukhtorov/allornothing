@@ -1,0 +1,31 @@
+.product {
+  margin-top: 80px;
+  width: 1340px;
+}
+.product__title {
+  font-family: var(--third-family);
+  font-weight: 500;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #999;
+  padding: 5px;
+}
+.product_img {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1260px;
+  margin-left: auto;
+  margin-right: auto;
+  gap: 15px;
+  margin-top: 20px;
+}
+.product__best {
+  width: 300px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-bottom: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  border-radius: 10px;
+  position: relative;
+}

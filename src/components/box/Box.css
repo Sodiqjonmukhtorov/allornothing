@@ -1,0 +1,30 @@
+.box__link {
+    border-radius: 34px;
+padding: 10px 25px;
+background-color: #f1c25f;
+padding: 11px 26px 11px 26px;
+}
+.Box__title {
+font-weight: 600;
+font-size: 64px;
+text-transform: uppercase;
+color: #fff;
+padding: 20px;
+}
+.Box {
+    width: 1300px;
+}
+.box__h3_title {
+font-weight: 500;
+font-size: 12px;
+line-height: 133%;
+text-transform: uppercase;
+color: #999;
+padding: 10px;
+}
+.box__block {
+    display: flex;
+}
+.box__block_img {
+    margin-top: 40px;
+}
